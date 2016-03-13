@@ -1,11 +1,14 @@
-## [Twitter Bootstrap](http://twitter.github.com/bootstrap) Server
+#### No longer maintained
 
-The twitter bootstrap server is responsible for backing the custom builds from bootstrap's download page. 
+The Bootstrap server is now handled via all client-side JavaScript within the main Bootstrap repo.
+
+-----
+
+## [Bootstrap](http://getbootstrap.com) Server <3
+
+The bootstrap server is responsible for backing the custom builds from bootstrap's download page.
 
 It serves zip files containing custom built and minified css and js.
-
-This needs a lot of work. ;) #GSOC
-
 
 ## Quick start
 
@@ -32,6 +35,6 @@ $ node tests
 
 ## License
 
-Copyright 2012 Twitter, Inc.
+Copyright 2013 Twitter, Inc.
 
 Licensed under the Apache License, Version 2.0: http://www.apache.org/licenses/LICENSE-2.0
